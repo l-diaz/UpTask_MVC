@@ -2,6 +2,8 @@
 
 Aplicación de gestión de tareas y proyectos desarrollada con PHP 8 siguiendo el patrón de arquitectura MVC (Modelo-Vista-Controlador), con estilos en SASS y envío de correos con PHPMailer.
 
+https://gabrieldev.infinityfreeapp.com/proyecto?id=f527d6773c10834c07b89d7f54182fa9
+
 ## Tecnologías
 
 - PHP 8
