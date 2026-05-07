@@ -1,0 +1,23 @@
+@use "base/mixins" as m;
+@use "base/variables" as v;
+
+.acciones {
+  margin-top: 5rem;
+  @include m.tablet {
+    display: flex;
+    justify-content: space-between;
+  }
+
+  margin-top: 5rem;
+
+  a {
+    text-decoration: none;
+    display: block;
+    text-align: center;
+    margin-bottom: 2rem;
+    color: v.$negro;
+    &:last-of-type {
+      margin-bottom: 0;
+    }
+  }
+}
